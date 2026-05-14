@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 8ec60544580971e47a3e044bb4022a99
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - sonidoSalto: {fileID: 8300000, guid: 685157d3c0db48b4f8912c82be7faa3d, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
